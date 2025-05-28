@@ -1,4 +1,4 @@
-# Youtube_Video_Scraper
+# Youtube_Video_Scraper_Extension
 A Chrome extension that extracts thumbnail URLs from YouTube videos on a channel page, saves them into a JSON file, and downloads the thumbnails directly to your default Downloads folder.
 🚀 Features
 Extracts all video thumbnail URLs from a YouTube channel page.
@@ -7,10 +7,10 @@ Saves the extracted URLs into a structured youtube_thumbnails.json file.
 
 Automatically downloads each thumbnail image to your browser's default download directory.
 
-User-friendly interface with a simple popup to initiate the process.
+User-friendly interface with a simple pop-up to initiate the process.
 📦 Installation
 
-Clone or Download this repository:
+Clone or download this repository:
 
 git clone https://github.com/Muhammad-Moaz-Shafiq/Youtube_Video_Scraper.git
 
