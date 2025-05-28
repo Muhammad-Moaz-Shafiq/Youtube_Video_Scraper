@@ -39,6 +39,7 @@ Automatically download each thumbnail image to your default Downloads folder
 
 📁 Project Structure
 Youtube_Video_Scraper/
+
 ├── icon.png
 ├── manifest.json
 ├── popup.html
